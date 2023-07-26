@@ -6598,6 +6598,15 @@ leader_traits = {
 			factor = 1
 		}
 	}
+	criminal_oligarch = {
+		random = no
+
+		democratic_acceptance = -100
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	regent_of_russian_democracy = {
 		random = no
 

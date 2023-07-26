@@ -1,4 +1,5 @@
-﻿l_russian:
+﻿
+l_russian:
  STRATEGICREGION_1: "Латвия"
  STRATEGICREGION_2: "Северная Беларусь"
  STRATEGICREGION_3: "Центральная Беларусь"
@@ -48,3 +49,4 @@
  STRATEGICREGION_47: "Казахстан"
  STRATEGICREGION_48: "Трансильвания"
  STRATEGICREGION_49: "Днепр"
+ STRATEGICREGION_50: "Дон"

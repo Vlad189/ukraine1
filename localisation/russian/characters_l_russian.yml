@@ -200,7 +200,7 @@
  vyacheslav_shamko: "Вячеслав Шамко"
  dmytro_marchenko: "Дмитро Марченко"
  kyryl_budanov: "Кирило Буданов"
-
+ kryvonos_sergey: "Сергей Кривонос"
  #Приднестровье
  Vadim: "Вадим Красносельский"
  obrychkov_oleg: "Олег Обручков"
@@ -270,3 +270,7 @@
  mikhail_mizintsev: "Михаил Мизинцев"
  alexander_kuznetsov: "Александр Кузнецов"
  anton_elizarov: "Антон Елизаров"
+
+###Новорусы
+hodak: "Александр Ходаковский"
+hodak_desc: "Александр Ходаковский"

@@ -50,6 +50,10 @@ spriteTypes = {
         name = "GFX_End_to_the_Separatists1"
         texturefile = "gfx/interface/goals/UKR/End_to_the_Separatists1.dds"
     }
+	spriteType = {
+        name = "GFX_blr_economic"
+        texturefile = "gfx/interface/goals/BLR/blr_economic.dds"
+    }
     spriteType = {
         name = "GFX_frame_soldier_obrazet2"
         texturefile = "gfx/interface/goals/UKR/frame_soldier_obrazet2.dds"
@@ -550,8 +554,8 @@ spriteType = {
 		texturefile = "gfx/interface/goals/UKR/IRIS-T.dds"
 	}
 	spriteType = {
-		name = "GFX_bredleyrervork1"
-		texturefile = "gfx/interface/goals/UKR/bredleyrervork1.dds"
+		name = "GFX_bradleyrervork1"
+		texturefile = "gfx/interface/goals/UKR/bradleyrervork1.dds"
 	}
 	spriteType = {
 		name = "GFX_marder"
@@ -1494,5 +1498,9 @@ spriteType = {
 	spriteType = {
 		name = "GFX_WGN_vinnitsa"
 		texturefile = "gfx/interface/goals/WGN/WGN_vinnitsa.dds"
+	}
+	spriteType = {
+		name = "GFX_WGN_tank_division"
+		texturefile = "gfx/interface/goals/WGN/WGN_tank_division.dds"
 	}
 }

@@ -8,9 +8,14 @@ state = {
     history = {
         owner = UKR
         
-        victory_points = { 12854 11 }
-        victory_points = { 3683 6 }
-        victory_points = { 1524 8 }
+        victory_points = { 18764 15 }
+        victory_points = { 18757 15 }
+        victory_points = { 18765 15 }
+        victory_points = { 107 15 }
+        victory_points = { 18756 1 }
+        victory_points = { 12854 3 }
+        victory_points = { 3683 2 }
+        victory_points = { 1524 1 }
         
         buildings = {
             infrastructure = 3
@@ -25,7 +30,7 @@ state = {
     }
 
     provinces = {
-        107 915 962 1419 1524 3654 3683 6808 9101 9854 12854 15634 15668 18756 18757 18764 18765 
+        107 915 962 1419 1524 3654 3683 6808 9101 9854 12854 15634 15668 18756 18757 18764 18765 18977 18978 18979 18980 18981 18982 18983 18984 18985 18986 18987 18988 18989 18991 18992 18993 18994 18995 18996 18997 18998 18999 
     }
 
     buildings_max_level_factor = 0.6
